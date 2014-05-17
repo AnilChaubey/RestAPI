@@ -16,7 +16,7 @@ To test the api follow this steps:
 
 5) On the server side, enterted credentials will be matched and if it matches correctly it will create a json and set      
    
-   'success'to 'true' else 'false'
+   success to 'true' else 'false'
 
 6) You can see the json response received belon the login button on the screen.
 
